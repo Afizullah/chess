@@ -1,0 +1,26 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    "vue.vscode-typescript-vue-plugin",
+    "dariofuzinato.vue-peek",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "yzhang.markdown-all-in-one",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "pflannery.vscode-versionlens",
+    "vivaxy.vscode-conventional-commits",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "vscode-icons-team.vscode-icons",
+    "oderwat.indent-rainbow",
+    "xabikos.javascriptsnippets",
+    "ms-ceintl.vscode-language-pack-fr",
+    "github.vscode-github-actions",
+    "esbenp.prettier-vscode",
+    "humao.rest-client"
+  ]
+}
